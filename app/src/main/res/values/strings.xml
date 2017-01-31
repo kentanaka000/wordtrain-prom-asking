@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Word Train</string>
+    <string name="main_button_single_text">Single Player</string>
+    <string name="single_button_hint_text">Hint</string>
+    <string name="single_remaining_desc_text">Remaining:</string>
+    <string name="single_mistakes_desc_text">Misses:</string>
+    <string name="single_instructions_text">Change one letter to form a new four letter word. \nDon\'t rearrange letters. You get three hints per play. \nIt\'s you against the computer. Good luck!</string>
+    <string name="single_win_text">YOU WIN!</string>
+    <string name="single_enter_text">Enter:</string>
+    <string name="single_start">Start</string>
+    <string name="single_count_desc_text">Word count:</string>
+</resources>
